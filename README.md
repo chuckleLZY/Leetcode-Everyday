@@ -10,3 +10,5 @@ some codes on leetcode
 4. #### [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) --4.29
 
 5. #### [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) --5.1
+
+6. #### [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) --5.2
