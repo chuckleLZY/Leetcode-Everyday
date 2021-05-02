@@ -12,3 +12,5 @@ some codes on leetcode
 5. #### [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) --5.1
 
 6. #### [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) --5.2
+
+7. #### [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/) --5.2
