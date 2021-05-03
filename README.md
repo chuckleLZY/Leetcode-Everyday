@@ -17,3 +17,5 @@ some codes on leetcode
 
 8. #### [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) --5.3
 
+9. #### [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) --5.3
+
