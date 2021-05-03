@@ -14,3 +14,6 @@ some codes on leetcode
 6. #### [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) --5.2
 
 7. #### [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/) --5.2
+
+8. #### [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) --5.3
+
