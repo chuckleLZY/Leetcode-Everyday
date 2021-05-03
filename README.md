@@ -19,3 +19,6 @@ some codes on leetcode
 
 9. #### [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) --5.3
 
+10. #### [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) --5.3
+
+
