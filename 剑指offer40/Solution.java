@@ -1,3 +1,6 @@
+
+import java.util.PriorityQueue;
+
 /**
  * Difficulty: Easy
  * find k small numbers of array
