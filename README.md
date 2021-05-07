@@ -24,3 +24,7 @@ some codes on leetcode
 11. #### [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) --5.5
 
 12. #### [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) --5.6
+
+13. #### [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) --5.7
+
+
